@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pantha.ng</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="enter_the_access_code_sent_to_your_email_to_register_as_a_sales_agent">Enter the access code sent to your email to register as a sales agent</string>
+    <string name="invite_code">Invite Code</string>
+    <string name="don_t_have_an_access_code">Don’t have an access code?</string>
+    <string name="proceed">Proceed</string>
+    <string name="request_access">Request Access</string>
+</resources>
