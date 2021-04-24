@@ -8,8 +8,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="green">#007D40</color>
+    <color name="light_green">#00B35B</color>
     <color name="green_a5">#0D007D40</color>
     <color name="grey">#C4C4C4</color>
     <color name="light_grey">#D9DBE9</color>
+    <color name="light_grey_a60">#99D9DBE9</color>
+    <color name="gold">#E37C1D</color>
 
 </resources>

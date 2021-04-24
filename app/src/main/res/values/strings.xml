@@ -9,4 +9,11 @@
     <string name="don_t_have_an_access_code">Don’t have an access code?</string>
     <string name="proceed">Proceed</string>
     <string name="request_access">Request Access</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already have an account?</string>
 </resources>

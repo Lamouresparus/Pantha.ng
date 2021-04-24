@@ -6,6 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import androidx.navigation.fragment.findNavController
+import com.geofferyj.panthang.R
 import com.geofferyj.panthang.databinding.OnboardingFragmentBinding
 
 class OnBoardingFragment : Fragment(), RegisterBottomSheet.BottomSheetClickListener {
@@ -36,7 +38,6 @@ class OnBoardingFragment : Fragment(), RegisterBottomSheet.BottomSheetClickListe
     }
 
     override fun onRequestAccessClicked() {
-        Log.d("BottomSheet", "request Clicked")
-
+        findNavController().navigate(R.id.registerFragment)
     }
 }

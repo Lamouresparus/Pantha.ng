@@ -42,12 +42,10 @@ class RegisterBottomSheet : BaseBottomSheet() {
             }
         }
         binding.buttonProceed.setOnClickListener {
-            dismiss()
             onClickListener.onProceedClicked()
         }
 
         binding.requestAccess.setOnClickListener {
-            dismiss()
             onClickListener.onRequestAccessClicked()
         }
     }

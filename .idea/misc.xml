@@ -7,14 +7,17 @@
         <entry key="app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.2604166666666667" />
         <entry key="app/src/main/res/drawable/green_button_bg.xml" value="0.2604166666666667" />
         <entry key="app/src/main/res/drawable/green_gradient.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/drawable/header_bg.xml" value="0.2604166666666667" />
         <entry key="app/src/main/res/drawable/logo_and_name.xml" value="0.22" />
         <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.2604166666666667" />
         <entry key="app/src/main/res/drawable/splash_bg1.xml" value="0.16145833333333334" />
         <entry key="app/src/main/res/drawable/splash_bg_gradient.xml" value="0.1375" />
         <entry key="app/src/main/res/font/poppins.xml" value="0.27447916666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/layout/header_layout.xml" value="0.25" />
         <entry key="app/src/main/res/layout/onboarding_fragment.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/layout/register_bottom_sheet.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/register_fragment.xml" value="0.25" />
         <entry key="app/src/main/res/layout/sign_up_fragment.xml" value="0.24270833333333333" />
       </map>
     </option>
