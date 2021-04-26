@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/onBoardingFragment">
+
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.geofferyj.panthang.ui.fragments.sign_up.SignUpFragment"
+        android:label="SignUpFragment" />
+    <fragment
+        android:id="@+id/onBoardingFragment"
+        android:name="com.geofferyj.panthang.ui.fragments.onboarding.OnBoardingFragment"
+        android:label="OnBoardingFragment" />
+</navigation>
